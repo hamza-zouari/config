@@ -1,0 +1,6 @@
+message: Hello!
+spring:
+  boot:
+    admin:
+      client:
+        url: http://localhost:9090
